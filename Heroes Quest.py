@@ -1028,4 +1028,5 @@ def main():
         print()
     rich.print("[bright_white]Farewell, hero.[/]")
 
+if __name__ == "__main__":
     main()
